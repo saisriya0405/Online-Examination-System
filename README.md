@@ -18,5 +18,5 @@ Features:
 
 
 
-Exam Duration: 60 minutes
+Exam Duration: 45 minutes
 
