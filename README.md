@@ -20,7 +20,5 @@ Features:
 
 <<<<<<< HEAD
 Exam Duration: 75 minutes
-=======
-Exam Duration: 45 minutes
 >>>>>>> feature-exam-rules
 
